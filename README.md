@@ -1,6 +1,6 @@
 # Book Vending Machine Project
 
-This project implements a system for printing literary classics with expired copyrights and selling them through vending machines. It consists of three main components: **Books**, **Vending Machines**, and a **Printing Press**.
+This project implements a system for printing literary classics with expired copyrights (Project Gutenberg) and selling them through vending machines. It consists of three main components: **Books**, **Vending Machines**, and a **Printing Press**.
 
 ## Overview 
 
