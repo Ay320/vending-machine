@@ -85,11 +85,4 @@ public class Book{
                     "Edition: " + edition + "\n";
     return output;
   }
-
-  /*public static void main(String[] args) {
-    Book book = new Book("Java Programming", "John Doe","kncwjefvnjfjfj  f f   f f   f  3 3 3 3", 2);
-    System.out.println(book); // Automatically calls toString()
-    System.out.println(book.getPages());
-    System.out.println(book.getContent());
-}*/
 }
