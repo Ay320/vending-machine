@@ -5,7 +5,7 @@ public class Main {
 
     public static void main(String[] args) {
         // Test the Press class
-        Press press = new Press("C:\\Users\\wwii4\\Desktop\\javatest\\Ass\\Ass3\\Books", 5);
+        Press press = new Press("Path to Dir", 5);   //change path
         List<String> catalogue = press.getCatalogue();
         System.out.println("Catalogue: " + catalogue);
 
