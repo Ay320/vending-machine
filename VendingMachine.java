@@ -167,18 +167,4 @@ public class VendingMachine{
 
         return bookToBuy;
      }
-
-     /*public static void main(String[] args) {
-        VendingMachine s = new VendingMachine(1, "12345");
-        List<Book> books = new ArrayList<Book>();
-        books.add(new Book("book1", "author1", "content", 6));
-        books.add(new Book("book2", "author2", "content", 5));
-        books.add(new Book("book3", "author3", "content", 4)); 
-        books.add(new Book("book4", "author4", "content", 3)); 
-        books.add(new Book("book5", "author5", "content", 2));
-        books.add(new Book("book6", "author6", "content", 1));  
-        s.restock(books, "12345");
-        System.out.println(s.getCatalogue());
-        System.out.println(s.getPrice(0));
-     } */
 }
